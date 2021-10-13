@@ -1,0 +1,105 @@
+{
+    // Use o IntelliSense para saber mais sobre os atributos possíveis.
+    // Focalizar para exibir as descrições dos atributos existentes.
+    // Para obter mais informações, acesse: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Exercicio_laco_3",
+            "request": "launch",
+            "mainClass": "Exercicio_laco_3",
+            "projectName": "ex-java-ola-mundo_352ad262"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch ExemploJOPane",
+            "request": "launch",
+            "mainClass": "ExemploJOPane",
+            "projectName": "ex-java-ola-mundo_352ad262"
+        },
+        {
+            "type": "java",
+            "name": "Launch ExemploOptionPane",
+            "request": "launch",
+            "mainClass": "ExemploOptionPane",
+            "projectName": "ex-java-ola-mundo_352ad262"
+        },
+        {
+            "type": "java",
+            "name": "Launch ExemploScanner",
+            "request": "launch",
+            "mainClass": "ExemploScanner",
+            "projectName": "ex-java-ola-mundo_352ad262"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercicio10",
+            "request": "launch",
+            "mainClass": "Exercicio10",
+            "projectName": "ex-java-ola-mundo_352ad262"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercicio11",
+            "request": "launch",
+            "mainClass": "Exercicio11",
+            "projectName": "ex-java-ola-mundo_352ad262"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercicio3",
+            "request": "launch",
+            "mainClass": "Exercicio3",
+            "projectName": "ex-java-ola-mundo_352ad262"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercicio4",
+            "request": "launch",
+            "mainClass": "Exercicio4",
+            "projectName": "ex-java-ola-mundo_352ad262"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercicio6",
+            "request": "launch",
+            "mainClass": "Exercicio6",
+            "projectName": "ex-java-ola-mundo_352ad262"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercicio7",
+            "request": "launch",
+            "mainClass": "Exercicio7",
+            "projectName": "ex-java-ola-mundo_352ad262"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercicio_laco_1",
+            "request": "launch",
+            "mainClass": "Exercicio_laco_1",
+            "projectName": "ex-java-ola-mundo_352ad262"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercicio_laco_2",
+            "request": "launch",
+            "mainClass": "Exercicio_laco_2",
+            "projectName": "ex-java-ola-mundo_352ad262"
+        },
+        {
+            "type": "java",
+            "name": "Launch exemploRepetica",
+            "request": "launch",
+            "mainClass": "exemploRepetica",
+            "projectName": "ex-java-ola-mundo_352ad262"
+        }
+    ]
+}
